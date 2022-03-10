@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c4d3b8c0-74a4-44c1-bf2e-15cd85fb50bf}</ProjectGuid>
-    <RootNamespace>ThreadBase</RootNamespace>
+    <ProjectGuid>{5cbd8c09-fb35-4a1d-bdfd-4b66204c6c07}</ProjectGuid>
+    <RootNamespace>LaunchProcess</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
