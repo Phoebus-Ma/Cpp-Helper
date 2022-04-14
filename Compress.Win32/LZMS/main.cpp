@@ -13,7 +13,7 @@
 
 
 #define FILE_PATH               L"C:\\Windows\\System32\\shell32.dll"
-#define COMPRESS_FILE           L"shell32.wim"
+#define COMPRESS_FILE           L"shell32.cab"
 #define DECOMPRESS_FILE         L"shell32.dll"
 
 
