@@ -1,2 +1,4 @@
-# Win32-Helper
-Win32 Programming.
+
+## Cpp-Helper
+
+Each project typically has a separate readme file.
